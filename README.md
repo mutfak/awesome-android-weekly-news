@@ -23,7 +23,7 @@ Awesome-android-weekly-news is an amazing list for news related to Android and d
 ### Previous weeks
 Previous weeks will be shown in here.
 
-+## License
+## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
