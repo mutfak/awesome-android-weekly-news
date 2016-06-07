@@ -16,6 +16,8 @@ Awesome-android-weekly-news is an amazing list for news related to Android and d
 
 ### Development related news for Android:
 
+- [Google I/O 2016: What’s New for Android Developers](https://medium.com/android-news/google-i-o-2016-whats-new-for-android-developers-2a172766cecb#.x2ubsdihn) - Google I/O 2016 was held in Shoreline Amphitheatre, Mountain View, California on May 18–20. There were a lot of announcements and new stuff from the event. Here are some of the new things relevant for Android developers 
+
 - [Android Marshmallow problems and how to fix them](https://www.androidpit.com/android-marshmallow-problems-and-how-to-fix-them) - Android 6.0 Marshmallow update unfortunately brought a few bugs along for the ride. With that in mind, we rounded up the most common Android Marshmallow problems and the solutions for fixing them...
 
 ### Business news, announcements related to Android:
