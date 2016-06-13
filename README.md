@@ -17,7 +17,7 @@ Awesome-android-weekly-news is an amazing list for news related to Android and d
 ## News & Blog posts from current week:
 
 ### Development related news for Android:
-
+- [Notifications in Android N](http://android-developers.blogspot.com.tr/2016/06/notifications-in-android-n.html) - Android notifications are often a make-or-break interaction between your Android app and users. To provide a better user experience, notifications on Android N have received a visual refresh, improved support for custom views, and expanded functionality in the forms of Direct Reply, a new MessagingStyle, and bundled notifications.
 
 ### Business news, announcements related to Android:
 
