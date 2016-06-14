@@ -19,6 +19,8 @@ Awesome-android-weekly-news is an amazing list for news related to Android and d
 ### Development related news for Android:
 - [Notifications in Android N](http://android-developers.blogspot.com.tr/2016/06/notifications-in-android-n.html) - Android notifications are often a make-or-break interaction between your Android app and users. To provide a better user experience, notifications on Android N have received a visual refresh, improved support for custom views, and expanded functionality in the forms of Direct Reply, a new MessagingStyle, and bundled notifications.
 
+- [Exploring Buy with Android Pay](https://labs.ribot.co.uk/exploring-buy-with-android-pay-4c8822c86133#.svnmteg78) - At Google I/O 2016 we saw a lot of attention on Android Pay. Using Android Pay, applications can implement features that allow users to both buy physical goods and save money in the form of loyalty cards and gift vouchers.
+
 ### Business news, announcements related to Android:
 
 
