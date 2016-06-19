@@ -4,11 +4,12 @@
 ##### About
 
 A curated list of awesome Android news and blog posts and much more.
+
 Every week list will be divided into categories such as develoment, business related announcements for Android and others. In each category, the order is for contribution. If you want to contribute, please read the [guide](https://github.com/mutfak/awesome-android-weekly-news/blob/master/CONTRIBUTION.md).
 
 List will contain weekly news and previous weeks' table.
 
-News from other weeks will be accesible from here.
+News from other weeks will be accesible from [here](https://github.com/mutfak/awesome-android-weekly-news/tree/master/PreviousWeeks).
 
 ##### How to Use
 Awesome-android-weekly-news is an amazing list for news related to Android and development for Android.
@@ -33,6 +34,7 @@ Awesome-android-weekly-news is an amazing list for news related to Android and d
 
 ## Other weeks
 
+- [Week1: 06.06.2016 - 12.06.2016](https://github.com/mutfak/awesome-android-weekly-news/blob/master/PreviousWeeks/week1:06.06.2016-12.06.2016.md)
 
 ## License
 
